@@ -81,7 +81,7 @@ def send():
 while True:
     while 1:
         top = tkinter.Tk()
-        top.title('Made by Mancos for Mancos')
+        top.title('Made by Felipe Poblete')
         top.geometry('450x300')
         top.configure(background='#a1dbcd')
 
@@ -142,7 +142,7 @@ while True:
         break
     while 1:
         chat = tkinter.Tk()
-        chat.title('Made by Mancos for Mancos')
+        chat.title('Made by Felipe Poblete')
         chat.geometry('512x220')
         chat.configure(background='#a1dbcd')
 
